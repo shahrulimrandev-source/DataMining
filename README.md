@@ -1,4 +1,3 @@
-<img width="1508" height="838" alt="Screenshot 2026-06-09 181300" src="https://github.com/user-attachments/assets/f45c20b7-b65f-4162-b1cd-bdca51d64b5e" />
 # 📊 Sales Analysis Dashboard using Power BI
 
 ## 📌 Problem Statement
