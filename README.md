@@ -62,7 +62,8 @@ Businesses generate large volumes of sales data every day. However, without prop
 - Male customers contributed more sales than female customers.
 - Demographic analysis supports targeted marketing strategies.
 
-![Dashboard 3](images/dashboard3.png)
+<img width="1478" height="778" alt="Screenshot 2026-06-09 181421" src="https://github.com/user-attachments/assets/b18fc930-edf2-4cce-b634-085509cdefb6" />
+
 
 ---
 
