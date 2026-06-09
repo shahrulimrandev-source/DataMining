@@ -17,7 +17,6 @@ Businesses generate large volumes of sales data every day. However, without prop
 - Microsoft Excel
 - Data Visualization
 - OLAP Analysis
-<img width="1920" height="1080" alt="Screenshot 2026-05-17 224154" src="https://github.com/user-attachments/assets/366914fa-77d5-4f3e-8f15-c2cab9f0f985" />
 
 ---
 
@@ -32,7 +31,7 @@ Businesses generate large volumes of sales data every day. However, without prop
 - Monthly sales trends revealed fluctuations throughout the year.
 - Interactive filters allow users to analyze sales by region and period.
 
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](<img width="1920" height="1080" alt="Screenshot 2026-05-17 224154" src="https://github.com/user-attachments/assets/366914fa-77d5-4f3e-8f15-c2cab9f0f985" />)
 
 ---
 
