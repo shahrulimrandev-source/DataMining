@@ -75,11 +75,6 @@ This project successfully transformed raw sales data into meaningful business in
 
 ## 👨‍💻 Author
 
-**Meh Abeh**  
+**SHAHRUL IMRAN**  
 Bachelor of Computer Science  
 Faculty of Informatics and Computing
-
-### Connect With Me
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your.email@example.com
