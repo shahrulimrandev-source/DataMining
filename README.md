@@ -1,3 +1,4 @@
+<img width="1508" height="838" alt="Screenshot 2026-06-09 181300" src="https://github.com/user-attachments/assets/f45c20b7-b65f-4162-b1cd-bdca51d64b5e" />
 # 📊 Sales Analysis Dashboard using Power BI
 
 ## 📌 Problem Statement
@@ -41,12 +42,13 @@ Businesses generate large volumes of sales data every day. However, without prop
 - Which products contribute the most revenue?
 - Which category performs best?
 
+
 ### Insights
 - Smartphone was the top-performing product.
 - Electronics generated the highest revenue among all categories.
 - Product analysis helps identify profitable items and customer preferences.
 
-![Dashboard 2](images/dashboard2.png)
+<img width="1508" height="838" alt="Screenshot 2026-06-09 181300" src="https://github.com/user-attachments/assets/710c6bf7-b16b-4ac9-a6d7-207b89a0af45" />
 
 ---
 
