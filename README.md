@@ -76,5 +76,6 @@ This project successfully transformed raw sales data into meaningful business in
 ## 👨‍💻 Author
 
 **SHAHRUL IMRAN**  
-Bachelor of Computer Science  
+Bachelor of Computer Science
+Universiti Sultan Zainal Abidin
 Faculty of Informatics and Computing
